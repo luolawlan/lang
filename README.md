@@ -8,3 +8,5 @@ MIT
 
 ## ToDo
 - [ ] c++
+- [ ] java
+- [ ] javascript
