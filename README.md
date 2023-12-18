@@ -1,4 +1,4 @@
-# Learning programming langauge for luolawlan
+# Programming Language
 
 # author
 luolawlan
@@ -7,6 +7,6 @@ luolawlan
 MIT
 
 ## ToDo
-- [ ] c++
-- [ ] java
-- [ ] javascript
+- [ ] C++
+- [ ] Java
+- [ ] JavaScript
