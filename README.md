@@ -1,8 +1,5 @@
 # Programming Language
 
-# author
-luolawlan
-
 # license
 MIT
 
