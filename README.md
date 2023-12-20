@@ -1,9 +1,5 @@
-# Programming Language
+# Read
+Programming Language for luolawlan
 
-# license
-MIT
-
-## ToDo
-- [ ] C++
-- [ ] Java
-- [ ] JavaScript
+# Contact
+email: luolawlan@outlook.com
