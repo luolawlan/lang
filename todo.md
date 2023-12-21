@@ -3,3 +3,7 @@
 - [ ] Java
 - [ ] JavaScript
 - [ ] Rust
+- [ ] C
+- [ ] Ruby
+- [ ] TypeScript
+
