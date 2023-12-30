@@ -1,5 +1,5 @@
 # Lang for Luolawlan
-Programming Language for luolawlan
+Computer Programming Language for Luolawlan
 
 ## Contact
 Email: luolawlan@outlook.com
